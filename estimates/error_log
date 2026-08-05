@@ -1,0 +1,41 @@
+[16-Apr-2026 13:45:37 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $estimate in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 611
+[16-Apr-2026 13:45:37 America/Indiana/Indianapolis] PHP Warning:  Trying to access array offset on null in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 611
+[16-Apr-2026 13:45:39 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $estimate in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 611
+[16-Apr-2026 13:45:39 America/Indiana/Indianapolis] PHP Warning:  Trying to access array offset on null in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 611
+[16-Apr-2026 13:45:43 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $estimate in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 611
+[16-Apr-2026 13:45:43 America/Indiana/Indianapolis] PHP Warning:  Trying to access array offset on null in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 611
+[16-Apr-2026 14:51:01 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $success in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 394
+[16-Apr-2026 14:51:01 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $alert in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 398
+[16-Apr-2026 14:51:46 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $success in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 394
+[16-Apr-2026 14:51:46 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $alert in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 398
+[16-Apr-2026 14:53:43 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $success in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 394
+[16-Apr-2026 14:53:43 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $alert in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 398
+[16-Apr-2026 14:53:55 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $success in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 394
+[16-Apr-2026 14:53:55 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $alert in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 398
+[16-Apr-2026 14:54:20 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $success in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 394
+[16-Apr-2026 14:54:20 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $alert in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 398
+[16-Apr-2026 14:54:23 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $success in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 394
+[16-Apr-2026 14:54:23 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $alert in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 398
+[16-Apr-2026 14:56:34 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $success in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 401
+[16-Apr-2026 14:56:34 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $alert in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 405
+[16-Apr-2026 14:57:17 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $success in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 401
+[16-Apr-2026 14:57:17 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $alert in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 405
+[16-Apr-2026 14:57:20 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $success in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/index.php on line 401
+[16-Apr-2026 14:58:21 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $success in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 401
+[16-Apr-2026 14:58:21 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $alert in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 405
+[16-Apr-2026 14:58:24 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $success in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 401
+[16-Apr-2026 14:58:24 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $alert in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 405
+[16-Apr-2026 14:58:32 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $success in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 401
+[16-Apr-2026 14:58:32 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $alert in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 405
+[16-Apr-2026 15:43:45 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $success in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 401
+[16-Apr-2026 15:43:45 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $alert in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 405
+[16-Apr-2026 15:49:26 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $success in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 401
+[16-Apr-2026 15:49:26 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $alert in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 405
+[16-Apr-2026 15:49:27 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $success in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 401
+[16-Apr-2026 15:49:27 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $alert in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 405
+[16-Apr-2026 16:04:12 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $success in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 409
+[16-Apr-2026 16:04:12 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $alert in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 413
+[16-Apr-2026 16:04:12 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $obstaclesOptions in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 504
+[16-Apr-2026 16:04:12 America/Indiana/Indianapolis] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 504
+[16-Apr-2026 16:04:57 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $success in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 409
+[16-Apr-2026 16:04:57 America/Indiana/Indianapolis] PHP Warning:  Undefined variable $alert in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/estimates/tree.php on line 413

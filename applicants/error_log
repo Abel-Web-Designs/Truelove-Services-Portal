@@ -1,0 +1,15 @@
+[12-May-2026 11:56:42 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'ynnvjute_tlc.applicant_calls.applicant_name' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/applicants/index.php:133
+Stack trace:
+#0 /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/applicants/index.php(133): PDO->query('\n    SELECT pho...')
+#1 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/applicants/index.php on line 133
+[12-May-2026 11:57:00 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'ynnvjute_tlc.applicant_calls.applicant_name' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/applicants/index.php:133
+Stack trace:
+#0 /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/applicants/index.php(133): PDO->query('\n    SELECT pho...')
+#1 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/applicants/index.php on line 133
+[12-May-2026 11:58:28 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'ynnvjute_tlc.applicant_calls.applicant_name' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/applicants/index.php:133
+Stack trace:
+#0 /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/applicants/index.php(133): PDO->query('\n    SELECT pho...')
+#1 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/applicants/index.php on line 133
