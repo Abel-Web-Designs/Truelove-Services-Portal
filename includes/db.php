@@ -1,8 +1,8 @@
 <?php
-$host = 'abelwebdesigns.com';
-$db   = 'ynnvjute_tlc';
-$user = 'ynnvjute_tabel';
-$pass = 'Waylon2022!';
+$host = 'host.com';
+$db   = 'db';
+$user = 'user';
+$pass = 'password!';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
