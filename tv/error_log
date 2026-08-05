@@ -1,0 +1,215 @@
+[04-Mar-2026 12:35:26 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:35:26 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:35:27 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:35:27 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:36:47 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:36:47 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:36:47 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:36:47 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:36:50 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:36:50 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:36:51 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:36:51 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:36:51 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:36:51 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:36:54 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:36:54 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:36:56 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:36:56 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:36:58 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:36:58 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:37:02 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:37:02 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:37:14 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:37:14 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:38:17 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:38:17 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:39:21 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:39:21 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:39:32 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:39:32 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:39:40 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:39:40 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:39:41 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:39:41 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:39:47 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:39:47 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:40:06 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:40:06 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:41:47 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:41:47 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 12:53:11 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/whiteboard.php on line 2
+[04-Mar-2026 12:53:11 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/whiteboard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/whiteboard.php on line 2
+[04-Mar-2026 12:53:30 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/whiteboard.php on line 2
+[04-Mar-2026 12:53:30 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/whiteboard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/whiteboard.php on line 2
+[04-Mar-2026 13:04:49 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 13:04:49 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 13:04:50 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[04-Mar-2026 13:04:50 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_whiteboard.php on line 3
+[08-Mar-2026 21:09:34 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php on line 2
+[08-Mar-2026 21:09:34 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php on line 2
+[08-Mar-2026 21:09:36 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php on line 2
+[08-Mar-2026 21:09:36 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php on line 2
+[08-Mar-2026 21:09:37 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php on line 2
+[08-Mar-2026 21:09:37 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php on line 2
+[08-Mar-2026 21:09:37 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php on line 2
+[08-Mar-2026 21:09:37 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php on line 2
+[08-Mar-2026 21:09:46 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php on line 2
+[08-Mar-2026 21:09:46 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php on line 2
+[08-Mar-2026 21:09:47 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php on line 2
+[08-Mar-2026 21:09:47 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php on line 2
+[13-Mar-2026 08:29:26 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php on line 2
+[13-Mar-2026 08:29:26 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/crew_board.php on line 2
+[07-Apr-2026 06:39:50 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:39:50 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:01 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:01 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:05 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:05 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:08 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:08 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:10 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:10 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:13 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:13 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:24 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:24 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:27 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:27 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:29 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:29 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:37 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:40:37 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:41:20 America/Chicago] PHP Warning:  require(includes/db.php): Failed to open stream: No such file or directory in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[07-Apr-2026 06:41:20 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/save_crew_move.php on line 3
+[30-Jun-2026 08:03:03 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 'Skidsteer', 'Truck', 'Other'' at line 1 in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/whiteboard.php:19
+Stack trace:
+#0 /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/whiteboard.php(19): PDO->query('SELECT id, name...')
+#1 {main}
+  thrown in /home1/ynnvjute/truelove-lawn-care.abelwebdesigns.com/tv/whiteboard.php on line 19
